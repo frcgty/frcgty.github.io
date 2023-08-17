@@ -1,5 +1,6 @@
 # frcgty.github.io
-# 一个简单的个人起始页
 
-## 模版来源，(https://github.com/imsyy/home)
+### 一个简单的个人起始页
+
+## 模版来源，https://github.com/imsyy/home
 
